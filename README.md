@@ -1,5 +1,5 @@
-#Tic Tac Toe
-**Tic Tac Toe is a really fun game that everyone around the world has played once in their life. I have tried to recreate a very simple version of Tic tac Toe that 2 players can play.**
+# Tic Tac Toe
+Tic Tac Toe is a really fun game that everyone around the world has played once in their life. I have tried to recreate a very simple version of Tic tac Toe that 2 players can play.
 
 ##Used Concepts:
   -> Systematic Design Programming
